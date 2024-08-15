@@ -1,0 +1,10 @@
+{
+  "deploy": {
+    "project": "17b56f9f-13cb-4b97-9b57-af543f21b738",
+    "exclude": [
+      "**/node_modules"
+    ],
+    "include": [],
+    "entrypoint": "deno-edge-functions/relife.ts"
+  }
+}
